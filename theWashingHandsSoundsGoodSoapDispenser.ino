@@ -1,5 +1,5 @@
 // This is The Washing Hands Sounds Good Soap Dispenser script, valid for Arduino UNO board.
-// This is a prototype, launched in 2020 with a unique song (Star Wars), to help people to make it less boring to wash their hands for at least 20 seconds, acording https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fprevention.html.
+// This is a prototype, launched in 2020 with a unique song (Star Wars), to help people to make it less boring to wash their hands for at least 20 seconds, according https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fprevention.html.
 // Because during this f***ing coronavirus pandemic, we will need the Force.
 // So, today, May the 4th be with you <3.
 // My new hope is that this situation will end very soon.
