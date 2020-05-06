@@ -39,6 +39,6 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 - [ ] Optimize gadget size (Arduino Nano?)
 - [ ] Make it with MP3 songs
 - [ ] Add random function to play a lot of shuffle songs
-- [ ] AI layer to detect water constantly running
+- [ ] Add AI layer to detect water constantly running
 - [ ] Add fingerprint to personalize songs for the whole family
 - [ ] Make a nice ceramic soap dispenser to give to friends
