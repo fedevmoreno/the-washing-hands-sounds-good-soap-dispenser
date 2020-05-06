@@ -12,6 +12,8 @@ Maybe people think that the naming is too long, but I love it. And it sounds goo
 
 The Washing Hands Sounds Good Soap Dispenser is a little idea and a cheap DIY project that it's very easy to make.
 
+![](./img/0002.png)
+
 The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 2020).
 
 ## What do you need to do it yourself?
