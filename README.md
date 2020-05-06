@@ -20,9 +20,11 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 - 1k resistor: €0.10
 - Switch: €0.04
 - ATmega328P board: €3.43
-- Power bank (500mA): €4.50
+- Power bank (500mA)*: €4.50
 
 **TOTAL: €8.19**
+
+*The battery life depends on the times that the user washes their hands (hopefully many). With the 500mA power bank, version 1.0.0 lasts for approximately 32 hours, having been used 22 times.
 
 ## Upcoming features and To Do list:
 
