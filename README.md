@@ -1,6 +1,6 @@
 # The Washing Hands Sounds Good Soap Dispenser
 
-During this coronavirus pandemic, we have learned that the best way to fight this damn virus is to wash our hands often with :soap: and :droplet: for at least 20 seconds (according The Centers for Disease Control and Prevention). And yes, it's true. It's a bit boring to wash your hands for 20 seconds.
+During Covid-19 Pandemic, we have learned that the best way to fight this damn virus is to wash our hands often with :soap: and :droplet: for at least 20 seconds (according The Centers for Disease Control and Prevention). And yes, it's true. It's a bit boring to wash your hands for 20 seconds.
 
 But what if during those endless 20 seconds we listened to an epic song that made us forget about time?
 
@@ -28,7 +28,7 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 
 ## Upcoming features and To Do list:
 
-- [x] Launch protoype on May the 4th, 2020
+- [x] Launch prototype on May the 4th, 2020
 - [ ] Optimize gadget size (Arduino Nano?)
 - [ ] Make it with MP3 songs
 - [ ] Add random function to play a lot of shuffle songs
