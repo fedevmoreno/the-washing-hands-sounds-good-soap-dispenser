@@ -10,7 +10,9 @@ Let me introduce **The Washing Hands Sounds Good Soap Dispenser**.
 
 Maybe people think that the naming is too long, but I love it. And it sounds good. :wink:
 
-The Washing Hands Sounds Good Soap Dispenser is a little idea and a cheap DIY project that it's very easy to make.
+### [Watch the result in a short video! ▶️ ](https://www.instagram.com/p/B_yKDrnjSuF)
+
+**The Washing Hands Sounds Good Soap Dispenser** is a little idea and a cheap DIY project that it's very easy to make.
 
 ![](./img/0002.png)
 
