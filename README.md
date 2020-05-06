@@ -10,7 +10,9 @@ Let me introduce **The Washing Hands Sounds Good Soap Dispenser**.
 
 Maybe people think that the naming is too long, but I love it. And it sounds good. :wink:
 
-The Washing Hands Sounds Good Soap Dispenser is a little idea and a cheap DIY project that it's very easy to make.
+### [Watch the result in a short video! ▶️ ](https://www.instagram.com/p/B_yKDrnjSuF)
+
+**The Washing Hands Sounds Good Soap Dispenser** is a little idea and a cheap DIY project that it's very easy to make.
 
 ![](./img/0002.png)
 
@@ -37,6 +39,6 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 - [ ] Optimize gadget size (Arduino Nano?)
 - [ ] Make it with MP3 songs
 - [ ] Add random function to play a lot of shuffle songs
-- [ ] AI layer to detect water constantly running
+- [ ] Add AI layer to detect water constantly running
 - [ ] Add fingerprint to personalize songs for the whole family
 - [ ] Make a nice ceramic soap dispenser to give to friends
