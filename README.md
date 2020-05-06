@@ -6,6 +6,8 @@ But what if during those endless 20 seconds we listened to an epic song that mad
 
 Let me introduce **The Washing Hands Sounds Good Soap Dispenser**.
 
+![](./img/0001.jpg)
+
 Maybe people think that the naming is too long, but I love it. And it sounds good. :wink:
 
 The Washing Hands Sounds Good Soap Dispenser is a little idea and a cheap DIY project that it's very easy to make.
