@@ -37,8 +37,8 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 
 - [x] Launch prototype on May the 4th, 2020
 - [ ] Optimize gadget size (Arduino Nano?)
-- [ ] Make it with MP3 songs
+- [ ] Make it sounds better with MP3 songs (DFPlayer Mini module)
 - [ ] Add random function to play a lot of shuffle songs
-- [ ] Add AI layer to detect water constantly running
+- [ ] Add AI layer to detect water constantly running (maybe too much?)
 - [ ] Add fingerprint to personalize songs for the whole family
 - [ ] Make a nice ceramic soap dispenser to give to friends
