@@ -10,8 +10,6 @@ Let me introduce **The Washing Hands Sounds Good Soap Dispenser**.
 
 Maybe people think that the naming is too long, but I love it. And it sounds good. :wink:
 
-### [Watch the result in a short video! ▶️ ](https://www.instagram.com/p/B_yKDrnjSuF)
-
 **The Washing Hands Sounds Good Soap Dispenser** is a little idea and a cheap DIY project that it's very easy to make.
 
 ![](./img/0002.png)
@@ -33,12 +31,14 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 
 *The battery life depends on the times that the user washes their hands (hopefully many). With the 500mA power bank, version 1.0.0 lasts for approximately 32 hours, having been used 22 times.
 
+### If you want, watch the result in [this short video! ▶️ ](https://twitter.com/fedevmoreno/status/1257448902749491200)
+
 ## Upcoming features and To Do list:
 
 - [x] Launch prototype on May the 4th, 2020
 - [ ] Optimize gadget size (Arduino Nano?)
-- [ ] Make it with MP3 songs
+- [ ] Make it sounds better with MP3 songs (DFPlayer Mini module)
 - [ ] Add random function to play a lot of shuffle songs
-- [ ] Add AI layer to detect water constantly running
+- [ ] Add AI layer to detect water constantly running (maybe too much?)
 - [ ] Add fingerprint to personalize songs for the whole family
 - [ ] Make a nice ceramic soap dispenser to give to friends
