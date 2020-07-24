@@ -4,7 +4,7 @@ During Covid-19 Pandemic, we have learned that the best way to fight this damn v
 
 But what if during those endless 20 seconds we listened to an epic song that made us forget about time?
 
-Let me introduce **The Washing Hands Sounds Good Soap Dispenser**.
+Let me introduce to you **The Washing Hands Sounds Good Soap Dispenser**.
 
 ![](./img/0001.jpg)
 
