@@ -31,7 +31,7 @@ The version 1.0.0 was launched to commemorate the Star Wars Day (May the 4th, 20
 
 *The battery life depends on the times that the user washes their hands (hopefully many). With the 500mA power bank, version 1.0.0 lasts for approximately 32 hours, having been used 22 times.
 
-### If you want, you can watch the result in [this short video ▶️](https://twitter.com/fedevmoreno/status/1257448902749491200), starring a great actress.
+### If you want, you can watch the result in [this short video](https://twitter.com/fedevmoreno/status/1257448902749491200), starring a great actress.
 
 ## Upcoming features and To Do list:
 
